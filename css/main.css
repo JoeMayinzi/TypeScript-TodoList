@@ -6,3 +6,15 @@
     radial-gradient(100% 148.07% at 0% 0%, #fff500 0%, #51d500 100%);
   background-blend-mode: screen, color-dodge, overlay, difference, normal;
 }
+
+.todoContainer {
+  display: none !important;
+}
+
+.todoitem-bg {
+  background-color: #f4f6f7;
+}
+
+#addButton {
+  margin-top: -35px;
+}
